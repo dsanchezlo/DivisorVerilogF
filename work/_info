@@ -1,0 +1,150 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vBarrido_displays
+Z0 !s110 1619669876
+!i10b 1
+!s100 ?nHDF;hGoIj:1B3LG:Rmk2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6LRG5DmM=ZI@@z6=iZ1F[2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Diego Sanchez/Desktop/EstadosVerilog
+w1619577122
+8C:/Users/Diego Sanchez/Desktop/EstadosVerilog/Barrido_displays.v
+FC:/Users/Diego Sanchez/Desktop/EstadosVerilog/Barrido_displays.v
+!i122 343
+L0 1 88
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1619669876.000000
+!s107 C:/Users/Diego Sanchez/Desktop/EstadosVerilog/Barrido_displays.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Diego Sanchez/Desktop/EstadosVerilog/Barrido_displays.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@barrido_displays
+vdivfreq
+Z8 !s110 1619669875
+!i10b 1
+!s100 In77P@M4o9Fj<dm61I4NH3
+R1
+IM:;R9?Eci[e>f7cV_J22M1
+R2
+R3
+w1619575902
+8C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divfreq.v
+FC:/Users/Diego Sanchez/Desktop/EstadosVerilog/divfreq.v
+!i122 338
+L0 1 22
+R4
+r1
+!s85 0
+31
+Z9 !s108 1619669875.000000
+!s107 C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divfreq.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divfreq.v|
+!i113 1
+R6
+R7
+vdivisor
+R8
+!i10b 1
+!s100 >_Uk8M[^X=X8YC5?cOjli2
+R1
+I;[Mg_>nf^3NMhzLMRRk_H2
+R2
+R3
+w1619668987
+8C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divisor.v
+FC:/Users/Diego Sanchez/Desktop/EstadosVerilog/divisor.v
+!i122 339
+L0 1 86
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divisor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divisor.v|
+!i113 1
+R6
+R7
+vmultiplicador
+R8
+!i10b 1
+!s100 Q`7_ikjSClP:=CI>IP3m13
+R1
+IWDK0^?k1fiVJiSJeN[5Wc0
+R2
+R3
+w1619575969
+8C:/Users/Diego Sanchez/Desktop/EstadosVerilog/multiplicador.v
+FC:/Users/Diego Sanchez/Desktop/EstadosVerilog/multiplicador.v
+!i122 340
+L0 1 94
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Diego Sanchez/Desktop/EstadosVerilog/multiplicador.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Diego Sanchez/Desktop/EstadosVerilog/multiplicador.v|
+!i113 1
+R6
+R7
+vprincipal
+R0
+!i10b 1
+!s100 =n>Df4GIX9GMjb[[]=Nd30
+R1
+IZmXUUC=Az5>YVDBP@g^JF3
+R2
+R3
+w1619668886
+8C:/Users/Diego Sanchez/Desktop/EstadosVerilog/principal.v
+FC:/Users/Diego Sanchez/Desktop/EstadosVerilog/principal.v
+!i122 341
+L0 1 47
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Diego Sanchez/Desktop/EstadosVerilog/principal.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Diego Sanchez/Desktop/EstadosVerilog/principal.v|
+!i113 1
+R6
+R7
+vtestbench
+R0
+!i10b 1
+!s100 DlYI5Cn23e]J`bhoEefEe3
+R1
+I`8ZjYd3RNChjH:nQBbNAO1
+R2
+R3
+w1619669870
+8C:/Users/Diego Sanchez/Desktop/EstadosVerilog/testbench.v
+FC:/Users/Diego Sanchez/Desktop/EstadosVerilog/testbench.v
+!i122 342
+L0 4 47
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Diego Sanchez/Desktop/EstadosVerilog/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Diego Sanchez/Desktop/EstadosVerilog/testbench.v|
+!i113 1
+R6
+R7

@@ -1,0 +1,4 @@
+Info (10281): Verilog HDL Declaration information at multiplicador.v(10): object "add" differs only in case from object "ADD" in the same scope File: C:/Users/Diego Sanchez/Desktop/EstadosVerilog/multiplicador.v Line: 10
+Info (10281): Verilog HDL Declaration information at divisor.v(10): object "condicional" differs only in case from object "CONDICIONAL" in the same scope File: C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divisor.v Line: 10
+Info (10281): Verilog HDL Declaration information at divisor.v(9): object "resta" differs only in case from object "RESTA" in the same scope File: C:/Users/Diego Sanchez/Desktop/EstadosVerilog/divisor.v Line: 9
+Warning (10268): Verilog HDL information at Barrido_displays.v(43): always construct contains both blocking and non-blocking assignments File: C:/Users/Diego Sanchez/Desktop/EstadosVerilog/Barrido_displays.v Line: 43
